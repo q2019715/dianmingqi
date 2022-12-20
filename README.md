@@ -1,4 +1,4 @@
-# randomer
+# 点名器
 点名器的文件
 ![Image](https://user-images.githubusercontent.com/121105062/208674404-e78577f8-3f6d-4411-85c5-b7e5629d6d39.png)
 # 简单介绍
